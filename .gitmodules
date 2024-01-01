@@ -1,0 +1,15 @@
+[submodule "ComputerScience2Project"]
+	path = ComputerScience2Project
+	url = https://github.com/JoshMcCPro/Computer-Science-2-Project
+[submodule "DataStructuresProject"]
+	path = DataStructuresProject
+	url = https://github.com/JoshMcCPro/Data-Structures-Project
+[submodule "Database-System-Project"]
+	path = Database-System-Project
+	url = https://github.com/JoshMcCPro/Database-System-Project
+[submodule "DatabaseSystemProject"]
+	path = DatabaseSystemProject
+	url = https://github.com/JoshMcCPro/Database-System-Project
+[submodule "JavaSoftwareDevelopmentProject"]
+	path = JavaSoftwareDevelopmentProject
+	url = https://github.com/JoshMcCPro/Java-Software-Development-Project
