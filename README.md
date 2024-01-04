@@ -9,8 +9,8 @@ Welcome to my GitHub Portfolio showcasing my computer science projects. This rep
 ## Bug Tracker - C++/Qt/Azure SQL Server/Git
 
 <div align="center">
-  <img src="BugTracker/ScreenShots/BugTracker_Login.png" alt="Database Final" height="300">
-  <img src="BugTracker/ScreenShots/BugTracker_SignUp.png" alt="Database Final" height="300">
+  <img src="https://raw.githubusercontent.com/JoshMcCPro/BugTracker/main/ScreenShots/BugTracker_Login.png" alt="Database Final" height="300">
+  <img src="https://raw.githubusercontent.com/JoshMcCPro/BugTracker/main/ScreenShots/BugTracker_SignUp.png" alt="Database Final" height="300">
 </div>
 
 **Description:**
@@ -19,8 +19,8 @@ Welcome to my GitHub Portfolio showcasing my computer science projects. This rep
 - Utilized Azure SQL Server for secure and scalable data storage, aligning with the need for managing data in a secure environment.
 - Integrated a secure user registration system that involved sending verification codes via Gmail, showcasing expertise in secure communication and external service integration.
 
-**Repository Link:** [Computer Science 2 Project (C++)](https://github.com/JoshMcCPro/Computer-Science-2-Project)
-**Download:** [Download Latest Version](https://github.com/JoshMcCPro/Computer-Science-2-Project/tree/main/x64/Release/ComputerScience2_Final.exe)
+**Repository Link:** [BugTracker](https://github.com/JoshMcCPro/BugTracker)
+**Download:** [Download Latest Version](https://github.com/JoshMcCPro/BugTracker)
 
 ---
 
@@ -34,8 +34,8 @@ Welcome to my GitHub Portfolio showcasing my computer science projects. This rep
 - Created a physics-based accuracy and skill-testing game using Unreal Engine, C++, and UI design.
 - Demonstrated proficiency in quickly learning and adapting to new frameworks, emphasizing adaptability and willingness to work with cutting-edge technologies.
 
-**Repository Link:** [Computer Science 2 Project (C++)](https://github.com/JoshMcCPro/Computer-Science-2-Project)
-**Download:** [Download Latest Version](https://github.com/JoshMcCPro/Computer-Science-2-Project/tree/main/x64/Release/ComputerScience2_Final.exe)
+**Repository Link:** [TWT](https://github.com/JoshMcCPro/TWT)
+**Download:** [Download Latest Version](https://github.com/TWT)
 
 ---
 
@@ -52,7 +52,7 @@ Welcome to my GitHub Portfolio showcasing my computer science projects. This rep
 - Object-Oriented Programming (OOP)
 - Game Development
 
-**Repository Link:** [Computer Science 2 Project (C++)](https://github.com/JoshMcCPro/Computer-Science-2-Project)
+**Repository Link:** [Computer Science 2 Project](https://github.com/JoshMcCPro/Computer-Science-2-Project)
 **Download:** [Download Latest Version](https://github.com/JoshMcCPro/Computer-Science-2-Project/tree/main/x64/Release/ComputerScience2_Final.exe)
 
 ---
@@ -70,7 +70,7 @@ Welcome to my GitHub Portfolio showcasing my computer science projects. This rep
 - SQL
 - Database Management
 
-**Repository Link:** [Database System Project (C++/Sqlite)](https://github.com/JoshMcCPro/Database-System-Project)
+**Repository Link:** [Database System Project](https://github.com/JoshMcCPro/Database-System-Project)
 **Download:** [Download Latest Version](https://github.com/JoshMcCPro/Database-System-Project/blob/main/x64/Release/Database_Final.exe)
 
 ---
@@ -88,7 +88,7 @@ Welcome to my GitHub Portfolio showcasing my computer science projects. This rep
 - Object-Oriented Programming (OOP)
 - Algorithm Design
 
-**Repository Link:** [Data Structures Project (C++/OOP)](https://github.com/JoshMcCPro/Data-Structures-Project)
+**Repository Link:** [Data Structures Project](https://github.com/JoshMcCPro/Data-Structures-Project)
 **Download:** [Download Latest Version](https://github.com/JoshMcCPro/Data-Structures-Project/blob/main/DSP/x64/Debug/DataStructuresProject.exe)
 
 ---
@@ -106,5 +106,5 @@ Welcome to my GitHub Portfolio showcasing my computer science projects. This rep
 - JavaFX
 - UI/UX Design
 
-**Repository Link:** [Java Software Development Project (Java/JavaFX)](https://github.com/JoshMcCPro/Java-Software-Development-Project)
+**Repository Link:** [Java Software Development Project](https://github.com/JoshMcCPro/Java-Software-Development-Project)
 **Download:** [Download Latest Version](https://github.com/JoshMcCPro/Java-Software-Development-Project/blob/main/FinalCookieClickerGame.jar)
