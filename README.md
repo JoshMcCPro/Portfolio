@@ -47,11 +47,6 @@ Welcome to my GitHub Portfolio showcasing my computer science projects. This rep
 **Description:**
 - Designed and developed a C++ geometry math game, demonstrating basic C++ and OOP skills.
 
-**Skills:**
-- C++
-- Object-Oriented Programming (OOP)
-- Game Development
-
 **Repository Link:** [Computer Science 2 Project](https://github.com/JoshMcCPro/Computer-Science-2-Project)
 **Download:** [Download Latest Version](https://github.com/JoshMcCPro/Computer-Science-2-Project/tree/main/x64/Release/ComputerScience2_Final.exe)
 
@@ -65,11 +60,6 @@ Welcome to my GitHub Portfolio showcasing my computer science projects. This rep
 **Description:**
 - Designed a C++ text menu-based application that accesses and modifies a SQL database, showcasing database management skills and SQL application.
 
-**Skills:**
-- C++
-- SQL
-- Database Management
-
 **Repository Link:** [Database System Project](https://github.com/JoshMcCPro/Database-System-Project)
 **Download:** [Download Latest Version](https://github.com/JoshMcCPro/Database-System-Project/blob/main/x64/Release/Database_Final.exe)
 
@@ -81,12 +71,7 @@ Welcome to my GitHub Portfolio showcasing my computer science projects. This rep
 </div>
 
 **Description:**
-- Implemented the tower of Hanoi game with a twist—stacking letters instead of blocks, showcasing creativity and problem-solving skills.
-
-**Skills:**
-- C++
-- Object-Oriented Programming (OOP)
-- Algorithm Design
+- Developed the tower of Hanoi game with a twist—stacking letters instead of blocks, showcasing data structure implementation and problem-solving skills.
 
 **Repository Link:** [Data Structures Project](https://github.com/JoshMcCPro/Data-Structures-Project)
 **Download:** [Download Latest Version](https://github.com/JoshMcCPro/Data-Structures-Project/blob/main/DSP/x64/Debug/DataStructuresProject.exe)
@@ -99,19 +84,15 @@ Welcome to my GitHub Portfolio showcasing my computer science projects. This rep
 </div>
 
 **Description:**
-- Crafted "Cookie Clicker," an incremental Java game demonstrating proficiency in Java and UI design using JavaFX, showcasing versatility in programming languages, including Java.
-
-**Skills:**
-- Java
-- JavaFX
-- UI/UX Design
+-	Crafted "Cookie Clicker," an incremental Java game demonstrating proficiency in Java and UI design using JavaFX.
+-	Showcased software development design by utilizing lucid charts to create class diagrams, underlining strong design and architecture skills.
 
 **Repository Link:** [Java Software Development Project](https://github.com/JoshMcCPro/Java-Software-Development-Project)
 **Download:** [Download Latest Version](https://github.com/JoshMcCPro/Java-Software-Development-Project/blob/main/FinalCookieClickerGame.jar)
 
 ---
 
-## Web Development 1 (HTML/CSS/JS)
+## Web Development 1 Project (HTML/CSS/JS)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/JoshMcCPro/Web-Programming-1-Project/main/ScreenShots/WebProgramming1Site.png" alt="Web Programming 1 Project Image" height="300">
