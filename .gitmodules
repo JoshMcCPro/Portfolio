@@ -10,3 +10,6 @@
 [submodule "JavaSoftwareDevelopmentProject"]
 	path = JavaSoftwareDevelopmentProject
 	url = https://github.com/JoshMcCPro/Java-Software-Development-Project
+[submodule "BugTracker"]
+	path = BugTracker
+	url = https://github.com/JoshMcCPro/BugTracker
