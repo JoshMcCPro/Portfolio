@@ -9,8 +9,8 @@ Welcome to my GitHub Portfolio showcasing my computer science projects. This rep
 ## Bug Tracker - C++/Qt/Azure SQL Server/Git
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoshMcCPro/BugTracker/main/ScreenShots/BugTracker_Login.png" alt="Database Final" height="300">
-  <img src="https://raw.githubusercontent.com/JoshMcCPro/BugTracker/main/ScreenShots/BugTracker_SignUp.png" alt="Database Final" height="300">
+  <img src="https://raw.githubusercontent.com/JoshMcCPro/BugTracker/main/ScreenShots/BugTracker_Login.png" alt="BugTracker Log In image" height="300">
+  <img src="https://raw.githubusercontent.com/JoshMcCPro/BugTracker/main/ScreenShots/BugTracker_SignUp.png" alt="BugTracker Sign Up" height="300">
 </div>
 
 **Description:**
@@ -27,7 +27,7 @@ Welcome to my GitHub Portfolio showcasing my computer science projects. This rep
 ## The Weapon Thrower - Unreal Engine/C++
 
 <div align="center">
-  <img src="https://github.com/JoshMcCPro/Resume/assets/63482770/0f60e415-7f64-4c96-84e3-4fccee894639" alt="Database Final" height="500">
+  <img src="https://github.com/JoshMcCPro/TWT/blob/main/ScreenShots/Home.jpg" alt="TWT home image" height="500">
 </div>
 
 **Description:**
@@ -35,7 +35,7 @@ Welcome to my GitHub Portfolio showcasing my computer science projects. This rep
 - Demonstrated proficiency in quickly learning and adapting to new frameworks, emphasizing adaptability and willingness to work with cutting-edge technologies.
 
 **Repository Link:** [TWT](https://github.com/JoshMcCPro/TWT)
-**Download:** [Download Latest Version](https://github.com/TWT)
+**Download:** [Download Latest Version](https://github.com/JoshMcCPro/TWT/blob/main/Download/TWT.exe)
 
 ---
 
