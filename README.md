@@ -1,30 +1,110 @@
 # Portfolio
 
-# Computer Science 2 Project
-Resources
-<img src="https://github.com/JoshMcCPro/Computer-Science-2-Project/Resources/img_cp2.jpg" alt="Project 1 Image 1" height="300">
+## Introduction
 
-# Database System Project
-Resources
-<img src="https://github.com/JoshMcCPro/Database-System-Project/Resources/img_DS_Info.jpg" alt="Project 2 Image 1" height="300">
-<img src="https://github.com/JoshMcCPro/Database-System-Project/Resources/img_DS_test.jpg" alt="Project 2 Image 2" height="300">
+Welcome to my GitHub Portfolio showcasing my computer science projects. This repository showcases my skills and passion for software development through a collection of projects that range from fun games to practical applications.
 
-Design
-<img src="https://github.com/JoshMcCPro/Database-System-Project/Design/3Column.pdf" alt="Project 2 Design 1" height="300">
-<img src="https://github.com/JoshMcCPro/Database-System-Project/Design/ERD.pdf" alt="Project 2 Design 2" height="300">
+## Projects
 
-# Data Structures Project
-Resources
-<img src="https://github.com/JoshMcCPro/Data-Structures-Project/Resources/img_DS_test01.png" alt="Project 3 Image 1" height="300">
-<img src="https://github.com/JoshMcCPro/Data-Structures-Project/Resources/img_DS_test02.png" alt="Project 3 Image 2" height="300">
+## Bug Tracker - C++/Qt/Azure SQL Server/Git
 
-Design
-<img src="https://github.com/JoshMcCPro/Data-Structures-Project/Design/UML.png" alt="Project 3 Design 1" height="300">
-<img src="https://github.com/JoshMcCPro/Data-Structures-Project/Design/UseCase.png" alt="Project 3 Design 2" height="300">
+<div align="center">
+  <img src="BugTracker/ScreenShots/BugTracker_Login.png" alt="Database Final" height="300">
+  <img src="BugTracker/ScreenShots/BugTracker_SignUp.png" alt="Database Final" height="300">
+</div>
 
-# Java Software Development Project
-Resources
-<img src="https://github.com/JoshMcCPro/Java-Software-Development-Project/Resources/CookieClicker.png" alt="Project 4 Image 1" height="300">
+**Description:**
+- Developed a secure bug tracker application using C++ within the VS Code environment.
+- Implemented robust security measures to protect sensitive data, including the use of SSL sockets for secure communication.
+- Utilized Azure SQL Server for secure and scalable data storage, aligning with the need for managing data in a secure environment.
+- Integrated a secure user registration system that involved sending verification codes via Gmail, showcasing expertise in secure communication and external service integration.
 
-Design
-<img src="https://github.com/JoshMcCPro/Java-Software-Development-Project/Design/Final_UML.png" alt="Project 4 Design 1" height="300">
+**Repository Link:** [Computer Science 2 Project (C++)](https://github.com/JoshMcCPro/Computer-Science-2-Project)
+**Download:** [Download Latest Version](https://github.com/JoshMcCPro/Computer-Science-2-Project/tree/main/x64/Release/ComputerScience2_Final.exe)
+
+---
+
+## The Weapon Thrower - Unreal Engine/C++
+
+<div align="center">
+  <img src="https://github.com/JoshMcCPro/Resume/assets/63482770/0f60e415-7f64-4c96-84e3-4fccee894639" alt="Database Final" height="500">
+</div>
+
+**Description:**
+- Created a physics-based accuracy and skill-testing game using Unreal Engine, C++, and UI design.
+- Demonstrated proficiency in quickly learning and adapting to new frameworks, emphasizing adaptability and willingness to work with cutting-edge technologies.
+
+**Repository Link:** [Computer Science 2 Project (C++)](https://github.com/JoshMcCPro/Computer-Science-2-Project)
+**Download:** [Download Latest Version](https://github.com/JoshMcCPro/Computer-Science-2-Project/tree/main/x64/Release/ComputerScience2_Final.exe)
+
+---
+
+### Computer Science 2 Project (C++)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JoshMcCPro/Computer-Science-2-Project/main/Resources/img_cp2.jpg" alt="Computer Science 2 Project Image" height="300">
+</div>
+
+**Description:**
+- Designed and developed a C++ geometry math game, demonstrating basic C++ and OOP skills.
+
+**Skills:**
+- C++
+- Object-Oriented Programming (OOP)
+- Game Development
+
+**Repository Link:** [Computer Science 2 Project (C++)](https://github.com/JoshMcCPro/Computer-Science-2-Project)
+**Download:** [Download Latest Version](https://github.com/JoshMcCPro/Computer-Science-2-Project/tree/main/x64/Release/ComputerScience2_Final.exe)
+
+---
+
+### Database System Project (C++/Sqlite)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JoshMcCPro/Database-System-Project/main/Resources/img_DS_test.jpg" alt="Database System Project Image" height="300">
+</div>
+
+**Description:**
+- Designed a C++ text menu-based application that accesses and modifies a SQL database, showcasing database management skills and SQL application.
+
+**Skills:**
+- C++
+- SQL
+- Database Management
+
+**Repository Link:** [Database System Project (C++/Sqlite)](https://github.com/JoshMcCPro/Database-System-Project)
+**Download:** [Download Latest Version](https://github.com/JoshMcCPro/Database-System-Project/blob/main/x64/Release/Database_Final.exe)
+
+---
+
+### Data Structures Project (C++/OOP)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JoshMcCPro/Data-Structures-Project/main/Resources/img_DS_test01.png" alt="Data Structures Project Image" height="300">
+</div>
+
+**Description:**
+- Implemented the tower of Hanoi game with a twist—stacking letters instead of blocks, showcasing creativity and problem-solving skills.
+
+**Skills:**
+- C++
+- Object-Oriented Programming (OOP)
+- Algorithm Design
+
+**Repository Link:** [Data Structures Project (C++/OOP)](https://github.com/JoshMcCPro/Data-Structures-Project)
+**Download:** [Download Latest Version](https://github.com/JoshMcCPro/Data-Structures-Project/blob/main/DSP/x64/Debug/DataStructuresProject.exe)
+
+---
+
+### Java Software Development Project (Java/JavaFX)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JoshMcCPro/Java-Software-Development-Project/main/Resources/CookieClicker.png" alt="Java Software Development Project Image" height="300">
+</div>
+
+**Description:**
+- Crafted "Cookie Clicker," an incremental Java game demonstrating proficiency in Java and UI design using JavaFX, showcasing versatility in programming languages, including Java.
+
+**Skills:**
+- Java
+- JavaFX
+- UI/UX Design
+
+**Repository Link:** [Java Software Development Project (Java/JavaFX)](https://github.com/JoshMcCPro/Java-Software-Development-Project)
+**Download:** [Download Latest Version](https://github.com/JoshMcCPro/Java-Software-Development-Project/blob/main/FinalCookieClickerGame.jar)
