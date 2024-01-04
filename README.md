@@ -108,3 +108,23 @@ Welcome to my GitHub Portfolio showcasing my computer science projects. This rep
 
 **Repository Link:** [Java Software Development Project](https://github.com/JoshMcCPro/Java-Software-Development-Project)
 **Download:** [Download Latest Version](https://github.com/JoshMcCPro/Java-Software-Development-Project/blob/main/FinalCookieClickerGame.jar)
+
+---
+
+## Web Development 1 (HTML/CSS/JS)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JoshMcCPro/Web-Programming-1-Project/main/ScreenShots/WebProgramming1Site.png" alt="Web Programming 1 Project Image" height="300">
+</div>
+
+**Description:**
+- This section showcases various web development projects, including:
+
+**Projects:**
+- Dice Roll 
+- Pick a Card
+- CSS Repositioning
+- Sign Language Translator
+
+**Repository Link:** [Web Programming 1 Project](https://github.com/JoshMcCPro/Web-Programming-1-Project)
+**Download:** [Download Latest Version](https://github.com/JoshMcCPro/Web-Programming-1-Project/main/site)
