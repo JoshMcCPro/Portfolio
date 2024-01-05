@@ -99,7 +99,7 @@ Welcome to my GitHub Portfolio showcasing my computer science projects. This rep
 </div>
 
 **Description:**
-- This section showcases various web development projects, including:
+-•	Developed a website showcasing all web development projects, demonstrating front-end web development skills.
 
 **Projects:**
 - Dice Roll 
